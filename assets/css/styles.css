@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form {
+    margin: 2rem 45% auto 5%;
+}
+
+form>button {
+    margin-top: 1rem;
+}
